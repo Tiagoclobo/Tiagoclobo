@@ -28,5 +28,5 @@
 
 <p align="center">
 <a href="mailto:tiagoclobo@gmail.com"><img src="https://img.shields.io/badge/-tiagoclobo@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/@tiago_camposl/"><img src="https://img.shields.io/badge/-@tiago_camposl-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/tiago_camposl/"><img src="https://img.shields.io/badge/-@tiago_camposl-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
